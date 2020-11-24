@@ -1,8 +1,8 @@
-#Overview 
+# Overview 
 
 This repo contains some basic lessons to get you up and running to develop Javascript apps.
 
-#Getting Started
+# Getting Started
 
 Here are a couple of prerequisites you will need:
 

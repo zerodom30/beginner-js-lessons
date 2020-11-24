@@ -1,4 +1,4 @@
-#Lesson 2 
+# Lesson 2 
 
 Before we get into javascript let's go over some other aspects of html. 
 

@@ -1,0 +1,11 @@
+{
+  "name": "beginner-js-lessons",
+  "version": "1.0.0",
+  "description": "beginner js lessons",
+  "main": "",
+  "scripts": {
+    "test": ""
+  },
+  "author": "zerodom30",
+  "license": "ISC"
+}
